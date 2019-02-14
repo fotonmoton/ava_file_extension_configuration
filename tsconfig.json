@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+      "module": "esnext",
+      "target": "esnext",
+      "moduleResolution": "node",
+      "allowJs": false,
+      "noEmit": true,
+      "strict": true,
+      "jsx": "react",
+      "isolatedModules":true,
+      "preserveConstEnums": true,
+      "allowSyntheticDefaultImports": true,
+  },
+  "include": [
+    "src",
+    "types"
+  ]
+}
